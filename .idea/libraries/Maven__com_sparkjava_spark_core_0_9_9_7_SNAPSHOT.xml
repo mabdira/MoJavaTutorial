@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sparkjava:spark-core:0.9.9.7-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sparkjava/spark-core/0.9.9.7-SNAPSHOT/spark-core-0.9.9.7-20130411.170735-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sparkjava/spark-core/0.9.9.7-SNAPSHOT/spark-core-0.9.9.7-20130411.170735-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sparkjava/spark-core/0.9.9.7-SNAPSHOT/spark-core-0.9.9.7-20130411.170735-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" name="Default" comment="" />
+    <ignored path="TutorialsPoint.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/pom.xml" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371072301940" ignored="false" />
+    <file path="/MessageUtil.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371069123694" ignored="false" />
+    <file path="/TestJunit.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371148119256" ignored="false" />
+    <file path="/TestRunner.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371170023480" ignored="false" />
+    <file path="/TestJunit1.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371156748589" ignored="false" />
+    <file path="/TestRunner1.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371149399187" ignored="false" />
+    <file path="/TestJunit2.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371152001139" ignored="false" />
+    <file path="/TestRunner2.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371150948178" ignored="false" />
+    <file path="/TestJunit3.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371153210576" ignored="false" />
+    <file path="/TestRunner3.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371152741626" ignored="false" />
+    <file path="/JunitTestSuite.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371167980549" ignored="false" />
+    <file path="/a.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372469724663" ignored="false" />
+    <file path="/EmployeeDetails.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371161338826" ignored="false" />
+    <file path="/EmpBusinessLogic.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371158482129" ignored="false" />
+    <file path="/TestEmployeeDetails.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371161357700" ignored="false" />
+    <file path="/TestAssertions.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371166786108" ignored="false" />
+    <file path="/JunitAnnotation.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371167125116" ignored="false" />
+    <file path="/PrimeNumberCheckerTest.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1371170191663" ignored="false" />
+    <file path="/DateTime.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372449010167" ignored="false" />
+    <file path="/fragment.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372451179722" ignored="false" />
+    <file path="/RegexMatches.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372473179881" ignored="false" />
+    <file path="/sample.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372469815848" ignored="false" />
+    <file path="/BRConsole.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372478869981" ignored="false" />
+    <file path="/FileInputStream.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372481492787" ignored="false" />
+    <file path="/hello.txt" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372479603990" ignored="false" />
+    <file path="/_FileInputStream.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372534664260" ignored="false" />
+    <file path="/ByteArrayInputOutputStream.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372536963494" ignored="false" />
+    <file path="/DataInputOutputStream.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372539421937" ignored="false" />
+    <file path="/FileInputOutputStream.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372540078964" ignored="false" />
+    <file path="/_File.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372541811426" ignored="false" />
+    <file path="/_FileReader.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372544495266" ignored="false" />
+    <file path="/FileReaderWriter.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372544393794" ignored="false" />
+    <file path="/BufferedReaderWriter.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372545565971" ignored="false" />
+    <file path="/InsufficientFundsException.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372627193581" ignored="false" />
+    <file path="/CheckingAccount.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372628599640" ignored="false" />
+    <file path="/BankDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372628362161" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/java/course/BlogController.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/pom.xml" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372717160823" ignored="false" />
+    <file path="/BlogController.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719075978" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/blog_template.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/signup.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/newpost_template.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/post_not_found.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/login.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/error_template.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/entry_template.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/resources/freemarker/welcome.ftl" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/java/course/BlogPostDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/java/course/SessionDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/Final-Exam/final-problem4.5929df5fc7a7/final-problem4/src/main/java/course/UserDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718454065" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/pom.xml" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372718931185" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/src/main/java/course/final/BlogController.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719058319" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/src/main/java/course/final/BlogPostDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719021364" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/src/main/java/course/finalexam/BlogController.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719101077" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/src/main/java/course/finalexam/BlogPostDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372726729413" ignored="false" />
+    <file path="/BlogPostDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372726344697" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/src/main/java/course/finalexam/SessionDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719096222" ignored="false" />
+    <file path="/SessionDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719094767" ignored="false" />
+    <file path="/UserDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719107492" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/src/main/java/course/finalexam/UserDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372719108320" ignored="false" />
+    <file path="$PROJECT_DIR$/../MongoDB/M101J_Java_Course/M101J/src/main/java/com/tengen/M101J/WK2_CRUD/final_q7.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372725083161" ignored="false" />
+    <file path="/final_q7.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372724807360" ignored="false" />
+    <file path="/_ArrayList.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372796869081" ignored="false" />
+    <file path="/_LinkedList.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372797620208" ignored="false" />
+    <file path="/_HashSet.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372798593764" ignored="false" />
+    <file path="/_LinkedHashSet.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372798753816" ignored="false" />
+    <file path="/_TreeSet.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372799584246" ignored="false" />
+    <file path="/_HashMap.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372800512488" ignored="false" />
+    <file path="/_LinkedHashMap.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372800724129" ignored="false" />
+    <file path="/_TreeMap.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372801936132" ignored="false" />
+    <file path="/WhichCollectionToUse.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1374077960359" ignored="false" />
+    <file path="/_WeakHashMap.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372803045710" ignored="false" />
+    <file path="/_IdentityHashMap.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372805452103" ignored="false" />
+    <file path="/CollectionAlgorithms.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372905354827" ignored="false" />
+    <file path="/Comparable_Comparator_Interfaces.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372919407166" ignored="false" />
+    <file path="/_Queue.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1372920500091" ignored="false" />
+    <file path="/Generics.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373055188224" ignored="false" />
+    <file path="/GenericBoundedMethod.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373056215634" ignored="false" />
+    <file path="/GenericClass.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373056818198" ignored="false" />
+    <file path="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/Serialization.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373057458586" ignored="false" />
+    <file path="/EmployeeSerialized.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373060322571" ignored="false" />
+    <file path="/SerializeEmployee.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373059623998" ignored="false" />
+    <file path="/DeSerializeEmployee.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373060289011" ignored="false" />
+    <file path="/SocketClient.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373066358785" ignored="false" />
+    <file path="/ServerSocket.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373068035565" ignored="false" />
+    <file path="/_ServerSocket.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373067646856" ignored="false" />
+    <file path="/URLDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373072572072" ignored="false" />
+    <file path="/URLConnectionDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373073882481" ignored="false" />
+    <file path="/NewThread.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373076442487" ignored="false" />
+    <file path="/ExtendThreadDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373077804394" ignored="false" />
+    <file path="/ThreadMethodClassDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373078989812" ignored="false" />
+    <file path="/SynchronizationThreadDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373085585044" ignored="false" />
+    <file path="/InterthreadCommunication.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373087472035" ignored="false" />
+    <file path="/ThreadDeadlock.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373088655657" ignored="false" />
+    <file path="/OrderLocks.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373089658937" ignored="false" />
+    <file path="/MultipleLocks.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373133670188" ignored="false" />
+    <file path="/ThreadPoolManagement.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373136876297" ignored="false" />
+    <file path="/_CountDownLunch.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373137618944" ignored="false" />
+    <file path="/_CountDownLatch.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373138373642" ignored="false" />
+    <file path="/ProducerConsumerBlockingArrayQueue.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373139250452" ignored="false" />
+    <file path="/WaitNotifyProducerConsumer.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373141097566" ignored="false" />
+    <file path="/_RentrantLock.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373142361770" ignored="false" />
+    <file path="/DeadLocksSolutionRentrantLocks.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373143697414" ignored="false" />
+    <file path="/Semaphores.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373174219162" ignored="false" />
+    <file path="/CallableFuture.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1374076842135" ignored="false" />
+    <file path="/InterruptingThreads.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373176643665" ignored="false" />
+    <file path="/Application.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373610408319" ignored="false" />
+    <file path="/View.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373603280803" ignored="false" />
+    <file path="/Model.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373416443992" ignored="false" />
+    <file path="/Controller.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373603046275" ignored="false" />
+    <file path="/EventController.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373486504159" ignored="false" />
+    <file path="/EventView.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373486545708" ignored="false" />
+    <file path="/LoginFormEvent.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373485965887" ignored="false" />
+    <file path="/LoginListener.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373486304158" ignored="false" />
+    <file path="/EventDrivenApplication.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373486585652" ignored="false" />
+    <file path="/PersonDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373604415960" ignored="false" />
+    <file path="/Person.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373609561331" ignored="false" />
+    <file path="/OracleLogDAO.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373610022509" ignored="false" />
+    <file path="/AnimalFactory.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373612753855" ignored="false" />
+    <file path="/InputSystem.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373689427707" ignored="false" />
+    <file path="/Game.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373689600885" ignored="false" />
+    <file path="/SwingApp.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1373691069185" ignored="false" />
+    <file path="/JsonEncodeDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1375393729884" ignored="false" />
+    <file path="/JsonDecodeDemo.java" changelist="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" time="1375396091465" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TutorialsPoint$PersonDAOTests_testCreate.coverage" NAME="PersonDAOTests.testCreate Coverage Results" MODIFIED="1373606649456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.tutorials_point.DesignPatterns.TestPattern.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TutorialsPoint" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/FacadePattern/GameObjects.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/FacadePattern/GameConsole.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/FacadePattern/App.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/FacadePattern/Game.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/AdapterPattern/SwingApp.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/AdapterPattern/LogWriter.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/AdapterPattern/Logger.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/AdapterPattern/ConsoleWriter.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/AdapterPattern/ConsoleLogWriter2.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/AdapterPattern/ConsoleLogWriter.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/AdapterPattern/App.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/MultiThreading/caveofprogramming/CallableFuture.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DataStructures/WhichCollectionToUse.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/JSON/json.html" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/JSON/JsonEncodeDemo.java" />
+        <option value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/JSON/JsonDecodeDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="JUnit_Tutorial" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="JUnit_Tutorial" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
+    <option name="y" value="25" />
+    <option name="width" value="1010" />
+    <option name="height" value="1005" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TutorialsPoint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TutorialsPoint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TutorialsPoint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TutorialsPoint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TutorialsPoint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorials_point" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TutorialsPoint" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tutorials_point" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JSON" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/Networking/Socket/SocketProgramming" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\EDE\TutorialsPoint\JavaTutorial\src\com\tutorials_point\DesignPatterns\TestPattern" />
+      <recent name="C:\EDE\TutorialsPoint\JavaTutorial\src\com\tutorials_point\DesignPatterns\BeanPattern" />
+      <recent name="C:\EDE\TutorialsPoint\JavaTutorial\src\com\tutorials_point\DesignPatterns\BeanPattern\model" />
+      <recent name="C:\EDE\TutorialsPoint\JavaTutorial\src\com\tutorials_point\DesignPatterns" />
+      <recent name="C:\EDE\TutorialsPoint\JavaTutorial\src\com\tutorials_point\DesignPatterns\SingletonPattern\mvc\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\EDE\TutorialsPoint\JavaTutorial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JsonDecodeDemo">
+    <configuration default="false" name="PersonDAOTests.testCreate" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tutorials_point.DesignPatterns.TestPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="JUnit_Tutorial" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tutorials_point.DesignPatterns.TestPattern" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorials_point.DesignPatterns.TestPattern.PersonDAOTests" />
+      <option name="METHOD_NAME" value="testCreate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Application" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tutorials_point.DesignPatterns.DAOMemoryDatabasePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tutorials_point.DesignPatterns.DAOMemoryDatabasePattern.Application" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JUnit_Tutorial" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="App" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tutorials_point.DesignPatterns.FacadePattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tutorials_point.DesignPatterns.FacadePattern.App" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JUnit_Tutorial" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JsonEncodeDemo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tutorials_point.JSON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tutorials_point.JSON.JsonEncodeDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JUnit_Tutorial" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="JsonDecodeDemo" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tutorials_point.JSON.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tutorials_point.JSON.JsonDecodeDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JUnit_Tutorial" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PersonDAOTests.testCreate" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Application" />
+      <item index="2" class="java.lang.String" itemvalue="Application.App" />
+      <item index="3" class="java.lang.String" itemvalue="Application.JsonEncodeDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.JsonDecodeDemo" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.JsonDecodeDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.JsonEncodeDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.App" />
+        <item index="3" class="java.lang.String" itemvalue="Application.App" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b69b95a-c5f2-4d31-b8de-6551b5af05a1" name="Default" comment="" />
+      <created>1371068058838</created>
+      <updated>1371068058838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="13" y="25" width="1010" height="1005" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985783" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3665208" sideWeight="0.5004739" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2492891" sideWeight="0.63347924" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3327014" sideWeight="0.63347924" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35275424" sideWeight="0.6351931" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36480686" sideWeight="0.49952605" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" x="899" y="100" width="921" height="880" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932165" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32579187" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985783" sideWeight="0.6345733" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/Exceptions/CheckingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/Exceptions/BankDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="325" selection-end="325" vertical-scroll-proportion="0.24363233" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/MessageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="198" selection-end="198" vertical-scroll-proportion="0.19933555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/RegularExpressions/RegexMatches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="18" selection-start="2880" selection-end="2880" vertical-scroll-proportion="0.3986711" />
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.tutorials_point.Networking.Socket.SocketProgramming._ServerSocket">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.tutorials_point.Networking.Socket.SocketProgramming._ServerSocket</OriginalElement>
+          <nodes>
+            <node x="" y="">com.tutorials_point.Networking.Socket.SocketProgramming._ServerSocket</node>
+            <node x="" y="">java.lang.Runnable</node>
+            <node x="" y="">java.lang.Thread</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="20.0" y="97.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/SingletonPattern/mvc/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/SingletonPattern/mvc/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="408" selection-end="408" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DesignPatterns/SingletonPattern/mvc/model/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/main/test/tests/EmployeeDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="386" selection-end="386" vertical-scroll-proportion="-0.39534885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/main/test/tests/JunitTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="341" selection-end="341" vertical-scroll-proportion="0.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/main/test/tests/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="10" selection-start="642" selection-end="642" vertical-scroll-proportion="0.59431523">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/JSON/JsonDecodeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="563" selection-end="563" vertical-scroll-proportion="0.34366927">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/DataStructures/WhichCollectionToUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="16" selection-start="2366" selection-end="2366" vertical-scroll-proportion="0.4625323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/com/tutorials_point/JSON/JsonEncodeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="36" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.63408524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/main/test/tests/TestEmployeeDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="13" selection-start="1242" selection-end="1242" vertical-scroll-proportion="0.9197995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaTutorial/src/main/test/JunitAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="347" selection-end="347" vertical-scroll-proportion="0.07393484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7.3 (C:/Python27/python.exe) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JUnit_Tutorial</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>json-simple-1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
